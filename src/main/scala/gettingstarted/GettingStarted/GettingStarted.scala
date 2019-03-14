@@ -1,6 +1,6 @@
 package gettingstarted.GettingStarted
 
-class scala {
+class GettingStarted {
   def fib(n: Int): Int = {
     def loop(n: Int, last: Int, cur: Int): Int = {
       if (n == 0) last
